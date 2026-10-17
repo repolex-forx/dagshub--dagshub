@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/dagshub/dagshub/commit/4f7d78a828ad11013582c2653dbffb1da70b65f4",
       "git:hexsha": "4f7d78a828ad11013582c2653dbffb1da70b65f4",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.7.3"
     },
     {
