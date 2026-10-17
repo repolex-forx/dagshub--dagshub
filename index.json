@@ -1,0 +1,11 @@
+{
+  "org": "dagshub",
+  "repo": "dagshub",
+  "versions": [
+    {
+      "commit": "4f7d78a828ad11013582c2653dbffb1da70b65f4",
+      "tag": "0.7.3",
+      "parsed_at": "2026-10-17T12:36:28.066286+00:00"
+    }
+  ]
+}
